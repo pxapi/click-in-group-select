@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "es2020",
+    "declaration": true,
+    "experimentalDecorators": true,
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "strict": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
